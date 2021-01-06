@@ -1,0 +1,2 @@
+# JavaScript Functions
+All javascript functions are built the same way, in their own, traditional function then exported as the file. This allows you to require the functions anytime using this githubs URL functions.obs.wtf/Javascript/`filename`.js
