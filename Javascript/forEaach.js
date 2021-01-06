@@ -23,3 +23,5 @@ async function forEaach(array, callbackfn, delay) {
 
 }
 
+exports = forEaach;
+
